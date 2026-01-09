@@ -1,0 +1,14 @@
+sudo apt install astral-uv --classic
+# classic is the confinement flag as its a system level tool
+
+1. uv init
+2. source .venv/bin/activate  
+
+# here also we use the virtual environment to install 
+and get the packages
+
+3. uv add <name of the libraries>
+
+# to run the app  
+4. uv run uvicorn main:app --reload
+
