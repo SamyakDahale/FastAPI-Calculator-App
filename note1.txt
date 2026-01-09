@@ -1,4 +1,4 @@
-sudo apt install astral-uv --classic
+0.sudo apt install astral-uv --classic
 # classic is the confinement flag as its a system level tool
 
 1. uv init
