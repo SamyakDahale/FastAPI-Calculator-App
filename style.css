@@ -3,7 +3,7 @@
     --calc-bg: #1e1e1e;
     --display-bg: #2d2d2d;
     --text-color: #ffffff;
-    --btn-color: #3d3d3d;
+    --btn-color: #04526d;
     --btn-hover: #4d4d4d;
     --accent-color: #bb86fc;
     --accent-hover: #9965f4;
@@ -25,7 +25,7 @@ body {
     background-color: var(--calc-bg);
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
     width: 320px;
 }
 
